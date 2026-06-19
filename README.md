@@ -1,6 +1,6 @@
 # torch_scatter-Wheel
 
-Custom **torch_scatter** Wheel für CUDA 12.8 + Blackwell GPU (sm_120).
+Custom **torch_scatter** Wheel für CUDA 13 + Blackwell GPU (sm_120).
 
 Optimiert für **HuggingFace ZeroGPU** und **PSHuman** auf Blackwell Hardware.
 
@@ -9,8 +9,8 @@ Optimiert für **HuggingFace ZeroGPU** und **PSHuman** auf Blackwell Hardware.
 | Komponente | Version |
 |---|---|
 | **Python** | 3.10 |
-| **PyTorch** | 2.11.0 + cu128 |
-| **CUDA** | 12.8 |
+| **PyTorch** | 2.11.0 + cu130 |
+| **CUDA** | 13 |
 | **GPU Arch** | **12.0 (Blackwell / ONLY)** |
 | **torch_scatter** | latest (konfigurierbar) |
 
