@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Ersetze in PSHuman `requirements.txt`:
 ```diff
 - # disabled_blackwell_incompatible: torch_scatter
-+ https://github.com/Painter3000/torch_scatter_wheel/releases/download/torch_scatter-torch2.11.0-cu128/torch_scatter-XXX-cp310-cp310-linux_x86_64.whl
++ https://github.com/Painter3000/torch_scatter_wheel/releases/download/torch_scatter-torch2.11.0-cu130/torch_scatter-XXX-cp310-cp310-linux_x86_64.whl
 ```
 
 ---
